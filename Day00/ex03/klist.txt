@@ -1,0 +1,8 @@
+Credentials cache: API:42090
+        Principal: ghamelek@S19.BE
+
+  Issued                Expires               Principal
+Aug  9 14:26:59 2018  Aug 10 00:26:59 2018  krbtgt/S19.BE@S19.BE
+Aug  9 14:27:00 2018  Aug 10 00:26:59 2018  ldap/ldap-master.s19.be@S19.BE
+Aug  9 14:27:00 2018  Aug 10 00:26:59 2018  HTTP/san-ssd.s19.be@S19.BE
+Aug  9 14:30:52 2018  Aug 10 00:26:59 2018  host/vogsphere.s19.be@S19.BE
